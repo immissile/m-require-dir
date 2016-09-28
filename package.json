@@ -1,0 +1,23 @@
+{
+  "name": "m-require-dir",
+  "version": "1.0.0",
+  "description": "base on require-dir, but it can transfer parameters when require per file in dir",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/immissile/m-require-dir.git"
+  },
+  "keywords": [
+    "require",
+    "dir"
+  ],
+  "author": "Missile",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/immissile/m-require-dir/issues"
+  },
+  "homepage": "https://github.com/immissile/m-require-dir#readme"
+}
